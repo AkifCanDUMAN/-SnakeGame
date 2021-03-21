@@ -1,6 +1,8 @@
 # -SnakeGame
 Akif Can DUMAN
 COM20-B
+# -SnakeGame for Video
+https://www.youtube.com/watch?v=tOnMnHYwmYw
 # -Snake Game general information;
 It is a game that has been played for years, there are some food in this game and the snake eats them and the game continues like this, if it touches the windowsill or its own tail, the game is over and it starts again.
 MidTermProject
